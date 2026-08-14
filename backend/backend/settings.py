@@ -23,7 +23,9 @@ DEBUG = os.environ.get("DEBUG", "False") == "True"
 ALLOWED_HOSTS = [
     "myprortfolio.onrender.com",
     "localhost",
-    "127.0.0.1"
+    "127.0.0.1",
+    "myportfolio-ejsba2man-sksingh4919-6927s-projects.vercel.app",
+    "myportfolio-phi-ten-58.vercel.app",
 ]
 
 # -----------------------
